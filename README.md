@@ -232,8 +232,8 @@ You will also need API keys for:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/deep-writer-ai.git
-cd deep-writer-ai
+git clone https://github.com/ahmadnawaz01/Deep-Writer-AI-LangGraph-Ollama-Tavily-Subgraphs-FastApi-.git
+cd Deep-Writer-AI-LangGraph-Ollama-Tavily-Subgraphs-FastApi-
 ```
 
 ---
